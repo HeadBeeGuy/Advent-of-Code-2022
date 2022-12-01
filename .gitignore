@@ -12,3 +12,9 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+*.DS_Store
+
+# there probably isn't much of a reason to commit these to the repository
+*input.txt
+*test*.txt
