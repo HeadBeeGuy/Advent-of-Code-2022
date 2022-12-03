@@ -1,3 +1,6 @@
+// Advent of Code 2022 Day 02
+// This got quite verbose. Fortunately rust-analyzer has something to automatically generate
+// the match arms. I sure did get some practice with matching enums!
 use std::fs;
 
 enum Move {
